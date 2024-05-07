@@ -1,0 +1,36 @@
+C:\WorkLuan\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkLuan\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfoInputs.cache
+C:\WorkLuan\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfo.cs
+C:\WorkLuan\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.csproj.CoreCompileInputs.cache
+C:\WorkLuan\EM.Web\EM.Domain\bin\Debug\net8.0\EM.Domain.deps.json
+C:\WorkLuan\EM.Web\EM.Domain\bin\Debug\net8.0\EM.Domain.dll
+C:\WorkLuan\EM.Web\EM.Domain\bin\Debug\net8.0\EM.Domain.pdb
+C:\WorkLuan\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.dll
+C:\WorkLuan\EM.Web\EM.Domain\obj\Debug\net8.0\refint\EM.Domain.dll
+C:\WorkLuan\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.pdb
+C:\WorkLuan\EM.Web\EM.Domain\obj\Debug\net8.0\ref\EM.Domain.dll
+C:\WorkLuan\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.csproj.AssemblyReference.cache
+C:\Nova pasta\EM.Web\EM.Domain\bin\Debug\net8.0\EM.Domain.deps.json
+C:\Nova pasta\EM.Web\EM.Domain\bin\Debug\net8.0\EM.Domain.dll
+C:\Nova pasta\EM.Web\EM.Domain\bin\Debug\net8.0\EM.Domain.pdb
+C:\Nova pasta\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.csproj.AssemblyReference.cache
+C:\Nova pasta\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfoInputs.cache
+C:\Nova pasta\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfo.cs
+C:\Nova pasta\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.csproj.CoreCompileInputs.cache
+C:\Nova pasta\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.dll
+C:\Nova pasta\EM.Web\EM.Domain\obj\Debug\net8.0\refint\EM.Domain.dll
+C:\Nova pasta\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.pdb
+C:\Nova pasta\EM.Web\EM.Domain\obj\Debug\net8.0\ref\EM.Domain.dll
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\bin\Debug\net8.0\EM.Domain.deps.json
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\bin\Debug\net8.0\EM.Domain.dll
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\bin\Debug\net8.0\EM.Domain.pdb
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.csproj.AssemblyReference.cache
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfoInputs.cache
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.AssemblyInfo.cs
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.dll
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\obj\Debug\net8.0\refint\EM.Domain.dll
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\obj\Debug\net8.0\EM.Domain.pdb
+C:\Users\luan_\Desktop\LUAN\estágio\EM.Web\EM.Domain\obj\Debug\net8.0\ref\EM.Domain.dll
